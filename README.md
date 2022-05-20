@@ -1,9 +1,8 @@
-## 个人简历网页模板
+# 520专用表白
 
-参考[来源](http://www.17sucai.com/pins/23650.html)
 
-![](images/2018110100626.png)
+#### 安装教程
 
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+1.  下载代码
+2.  上传至服务器或虚拟空间
+3.  访问域名
