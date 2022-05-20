@@ -1030,7 +1030,7 @@
             }, mounted: function () {
                 this.audioS = uni.createInnerAudioContext(), this.audioS.src = this.mp3Src, this.audioS.loop = this.loop
             }, beforeDestroy: function () {
-                this.goBack && (location.href = "kyy.png"), this.audioS.stop()
+                this.goBack && (location.href = "mibian\\kyy.png"), this.audioS.stop()
             }, methods: {
                 btnModalFn: function () {
                     this.show = !0, this.content = this.modalArr[this.index]
@@ -1058,7 +1058,7 @@
                         }), 300))
                     }), 300)
                 }, openMore: function () {
-                    location.href = "kyy.png"
+                    location.href = "mibian\\kyy.png"
                 }, palyMp3Fn: function () {
                     this.playMp3 = !this.playMp3, this.playMp3 ? this.audioS.play() : this.audioS.pause()
                 }, twoPageFn: function () {
